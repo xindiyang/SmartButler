@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kymjs.rxvolley:okhttp3-1.1.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okhttp3-1.1.4.aar/34580c17c50187d5da12fa50f8999715/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okhttp3-1.1.4.aar/34580c17c50187d5da12fa50f8999715/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kymjs.rxvolley/okhttp3/1.1.4/bc6b3466a99045d4c19ebae563d956f1ea047f18/okhttp3-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
